@@ -1,0 +1,14 @@
+# Power BI temp files
+*.tmp
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache (if used)
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
